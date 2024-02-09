@@ -1,0 +1,15 @@
+.admission {
+    background-color: #193250;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+.admission p {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.admission h2 {
+    margin-bottom: 15px;
+}

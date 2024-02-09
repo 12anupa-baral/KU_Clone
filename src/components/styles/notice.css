@@ -1,0 +1,14 @@
+.notice {
+    text-align: center;
+    padding: 20px;
+}
+
+.notice p {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.notice h3 {
+
+    margin-bottom: 10px;
+}
